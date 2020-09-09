@@ -1,0 +1,12 @@
+D:\visual studio\VBSisfoPerpus\bin\Debug\VBSisfoPerpus.exe.config
+D:\visual studio\VBSisfoPerpus\bin\Debug\VBSisfoPerpus.exe
+D:\visual studio\VBSisfoPerpus\bin\Debug\VBSisfoPerpus.pdb
+D:\visual studio\VBSisfoPerpus\bin\Debug\VBSisfoPerpus.xml
+D:\visual studio\VBSisfoPerpus\obj\Debug\VBSisfoPerpus.vbprojAssemblyReference.cache
+D:\visual studio\VBSisfoPerpus\obj\Debug\VBSisfoPerpus.Form1.resources
+D:\visual studio\VBSisfoPerpus\obj\Debug\VBSisfoPerpus.Resources.resources
+D:\visual studio\VBSisfoPerpus\obj\Debug\VBSisfoPerpus.vbproj.GenerateResource.cache
+D:\visual studio\VBSisfoPerpus\obj\Debug\VBSisfoPerpus.vbproj.CoreCompileInputs.cache
+D:\visual studio\VBSisfoPerpus\obj\Debug\VBSisfoPerpus.exe
+D:\visual studio\VBSisfoPerpus\obj\Debug\VBSisfoPerpus.xml
+D:\visual studio\VBSisfoPerpus\obj\Debug\VBSisfoPerpus.pdb
